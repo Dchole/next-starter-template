@@ -114,6 +114,14 @@
   height: 1em;
 }
 
+.disconnected {
+  background-color: red;
+}
+
+.connected {
+  background-color: #35f82e;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
